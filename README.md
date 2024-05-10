@@ -1,6 +1,6 @@
 # Welcome to the REJOUICE® - Tomorrow's Brands, Today™
 
-Hey there, welcome to the REJOUICE® digital brand accelerator, where creativity knows no bounds and innovation thrives! This repository is more than just a collection of code - it's a gateway to an immersive experience that showcases the very essence of REJOUICE®'s brand philosophy: transforming visions into remarkable digital experiences.
+Hey there, welcome to the REJOUICE® digital brand accelerator, where creativity knows no bounds and innovation thrives! This repository is more than just a collection of code - it's a gateway to an immersive experience that showcases the very essence of REJOUICE®'s brand philosophy: transforming visions into remarkable digital experiences.The REJOUICE® website is built using HTML, CSS, and JavaScript, incorporating various libraries and plugins for smooth scrolling, animations, and interactive elements. The website aims to provide a visually appealing and engaging experience for visitors, highlighting the agency's capabilities and past projects.
 
 ## Explore the Digital Journey
 

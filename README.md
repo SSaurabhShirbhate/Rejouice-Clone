@@ -36,7 +36,7 @@ Getting started is a breeze! Simply clone this repository to your local machine 
 
 ### Contribute and Collaborate
 
-Contributions from fellow creators and innovators like yourself are welcomed! Whether it's enhancing animations, refining scrolling effects, or adding new functionalities, your input can help shape the future of the REJOUICE® digital brand accelerator. Join the exciting journey of digital transformation and brand elevation.
+Contributions from fellow creators and innovators like yourself are welcomed! Whether it's enhancing animations, refining scrolling effects, or adding new functionalities, your input can help shape the future of the REJOUICE® digital brand accelerator. Join the exciting journey of digital transformation and brand elevation. It is not fully responsive 
 
 ## Show Your Support
 
